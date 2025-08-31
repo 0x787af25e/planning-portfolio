@@ -1,5 +1,5 @@
-# Urban Planning Portfolio — One-pagers (Generalist)
-I make concise artifacts to support decisions: **site/street audits, spatial insights (simple maps), policy briefs, and concept sheets**.
+# My portfolio
+I make concise artifacts to support decisions: site audits, spatial insights, policy briefs, and concept sheets.
 
 ## Highlights
 - [Site Audit #1 – [Location]](site-audits/...) – 1 page
