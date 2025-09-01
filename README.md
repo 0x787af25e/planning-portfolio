@@ -2,10 +2,10 @@
 I make concise artifacts to support decisions: site audits, spatial insights, policy briefs, and concept sheets.
 
 ## Highlights
-- [Site Audit #1 – [Location]](site-audits/...) – 1 page
-- [Spatial Insight – 400 m MRT/bus access](spatial-insights/...) – 1 page
-- [Policy Brief – [Topic]](policy-briefs/...) – 1 page
-- [Concept Sheet – [Street/Block]](concept-sheets/...) – 1 page
+- [Site Audit #1 – [Location]](site-audits/site-audit-01)
+- [Spatial Insight – 400 m MRT/bus access](spatial-insights/...) 
+- [Policy Brief – [Topic]](policy-briefs/...)
+- [Concept Sheet – [Street/Block]](concept-sheets/...)
 
 ## Pillars
 - **Site Audits:** context map, 6–8 photos + captions, issues→opportunities, 3 quick wins  
